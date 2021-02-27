@@ -6,7 +6,7 @@ I am a bilingual software engineer who loves to give back to her community.
 
 ### 🌱 Things I am currently working on: 
 - An Instagram clone
-- Building a film application at my internship
+- Building a film application at my internship, DataSlate
 - Landing my first job in tech as a software engineer
 - Finding open-source projects I can contribute to
 
@@ -40,15 +40,6 @@ I am a bilingual software engineer who loves to give back to her community.
 <!-- **mairagee524/mairagee524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
-🔭 I’m currently working on a film project on DataSlate, as a volunteer.
-
-👯 I’m looking to collaborate on projects that fuse tech with education.
-
-🤔 I’m looking for help with how to improve my back-end knowledge. I am also looking to collaborate more on open-source projects. 
-
-
-
 
 ### ⚡ Fun facts:
 - I've seen my all-time favorite band, blink-182 8 times and met them once as a VIP! 
