@@ -53,7 +53,7 @@ I am a bilingual software engineer who is passionate about solving problems. As 
 ### 📫 Contact me at: 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mairagee524)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mairagarcia524/)
-![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flatinacoder24)
+[![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&style=social)](https://twitter.com/latinacoder24)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mairagarcia.codes@gmail.com)
 
 
