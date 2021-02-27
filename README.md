@@ -32,4 +32,7 @@ Here are some ideas to get you started: -->
 - I am a big "How I Met Your Mother" and "New Girl" fan
 - I love participating in 5k events!
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=mairagee524&theme=omni&show_icons=true&&count_private=true&hide_border=true" />
+
+![Profile views](https://gpvc.arturio.dev/mairagee524) <img src="https://img.shields.io/github/followers/mairagee524?label=Follow" style="float:left, margin-right:10px" />
+
+[![Maira's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairagee524&theme=omni&show_icons=true&&count_private=true&hide_border=true)
