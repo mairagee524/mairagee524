@@ -1,30 +1,29 @@
-### Hi there, I'm Maira 👋
+# Hi there, I'm Maira 👋
 
-![Profile views](https://gpvc.arturio.dev/mairagee524) <img src="https://img.shields.io/github/followers/mairagee524?label=Follow"/>
-
-Contact me at: 
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mairagee524)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mairagarcia524/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mairagarcia.codes@gmail.com)
+![Profile views](https://gpvc.arturio.dev/mairagee524) <img src="https://img.shields.io/github/followers/mairagee524?label=Followers"/>
 
 I am a bilingual software engineer who loves to give back to her community.
 
+### 🌱 Things I am currently working on: 
+- An Instagram clone
+- Building a film application at my internship
+- Landing my first job in tech as a software engineer
+- Finding open-source projects I can contribute to
 
-#### 🌱 Things I am currently working on: 
-- one
-- two
-- three
+### :muscle: Things I am challenging myself with:
+- Learning Firebase
+- Working out at least 3 times per week
+- Cooking more from home than ordering takeout everyday
 
-#### :muscle: Things I am challenging myself with:
-- 
-- 
-- 
+
+### 💬 Ask me about: 
+- Latinas transitioning to tech
+- having a non-traditional coding background
+- about my two puppies!
 
 ### Tech & Tools Preference
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -44,36 +43,25 @@ Here are some ideas to get you started: -->
 
 🔭 I’m currently working on a film project on DataSlate, as a volunteer.
 
-🌱 I’m currently learning how to build an Instagram clone from scratch.
-
 👯 I’m looking to collaborate on projects that fuse tech with education.
 
 🤔 I’m looking for help with how to improve my back-end knowledge. I am also looking to collaborate more on open-source projects. 
 
-💬 Ask me about: 
-- Latinas transitioning to tech
-- having a non-traditional coding background
-- about my two puppies!
 
-📫 How to reach me/say hello to me at:
-- LinkedIn: https://www.linkedin.com/in/mairagarcia524/
-- Twitter: @latinacoder24
-- Email: mairagarcia.codes@gmail.com
 
-😄 Pronouns: she/her/hers
 
-⚡ Fun facts:
+### ⚡ Fun facts:
 - I've seen my all-time favorite band, blink-182 8 times and met them once as a VIP! 
 - I am a big "How I Met Your Mother" and "New Girl" fan
 - I love participating in 5k events!
 
-## Find me on:
+😄 Pronouns: she/her/hers
 
-- Contributing on: <a href="https://github.com/mairagee524"><img src="https://img.shields.io/github/followers/mairagee524.svg?label=GitHub&style=social" alt="GitHub"></a>
+📫 Contact me at: 
 
-
-- Trying to be up to good on: <a href="https://twitter.com/latinacoder24"><img src="https://img.shields.io/twitter/follow/latinacoder24?label=Twitter&style=social" alt="Twitter"></a> 
-
-
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mairagee524)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mairagarcia524/)
+![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flatinacoder24)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mairagarcia.codes@gmail.com)
 
 [![Maira's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairagee524&theme=omni&show_icons=true&&count_private=true&hide_border=true)
