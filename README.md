@@ -1,4 +1,4 @@
-# Hi there, I'm Maira 👋
+# Hola, soy Maira 👋
 
 ![Profile views](https://gpvc.arturio.dev/mairagee524) <img src="https://img.shields.io/github/followers/mairagee524?label=Followers"/>
 
@@ -6,7 +6,6 @@ I am a bilingual software engineer who is passionate about solving problems. As 
 
 
 ### 🌱 Things I am currently working on: 
-- Replicating the Instagram application
 - Building a film application at my internship, DataSlate
 - Landing my first job in tech as a software engineer
 - Finding open-source projects I can contribute to
