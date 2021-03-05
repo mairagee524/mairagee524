@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mairagee524) <img src="https://img.shields.io/github/followers/mairagee524?label=Followers"/>
 
-I am a bilingual software engineer who is passionate about solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I was able to build three applications for local businesses in order for them to keep providing services to their clients. It is due to that experience that I am passionate about giving back to communities. I currently volunteer at Prentus as a front-end developer and at DataSlate as a software engineering intern.
+I am a bilingual software engineer who is passionate about solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I was able to build three applications for local businesses in order for them to keep providing services to their clients. It is due to that experience that I am passionate about giving back to communities. I currently volunteer at DataSlate as a software engineering intern.
 
 
 ### 🌱 Things I am currently working on: 
