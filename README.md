@@ -2,28 +2,31 @@
 
 ![Profile views](https://gpvc.arturio.dev/mairagee524) <img src="https://img.shields.io/github/followers/mairagee524?label=Followers"/>
 
-I am a bilingual software engineer who is passionate about solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I was able to build three applications for local businesses in order for them to keep providing services to their clients. It is due to that experience that I am passionate about giving back to communities. I currently volunteer at DataSlate as a software engineering intern.
+I am a bilingual software engineer who is passionate about solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I was able to build three applications for local businesses in order for them to keep providing services to their clients. It is due to that experience that I am passionate about giving back to communities. I currently intern at DataSlate and volunteer at a start-up called Go-Off! as a full-stack engineer!
 
 
 ### 🌱 Things I am currently working on: 
 - Building a film application at my internship, DataSlate
+- Making buttons for the Go-Off! application
 - Landing my first job in tech as a software engineer
 - Finding open-source projects I can contribute to
 
 
 ### :muscle: Things I am challenging myself with:
-- Learning Firebase
+- Learning Postgres
+- Reading a book a month
 - Working out at least 3 times per week
 - Cooking more from home than ordering takeout
 
 
 ### 💬 Ask me about: 
 - Latinas transitioning to tech
+- Mentorship/assistance needed
 - having a non-traditional coding background
 - about my two puppies!
 
 
-### ⚙️ Tech & Tools: 
+### ⚙️ Tech & tools: 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -40,9 +43,10 @@ I am a bilingual software engineer who is passionate about solving problems. As 
 
 
 ### ⚡ Fun facts:
-- I've seen my all-time favorite band, blink-182, (8) times and met them once as a VIP! 
+- I've seen my all-time favorite band, blink-182, (8) times and met them once as a VIP
+- I graduated from cosmetology school a couple years ago 
 - I am a big "How I Met Your Mother" and "New Girl" fan
-- I love participating in 5k events!
+- I love participating in 5k events
 
 
 ### 😄 Pronouns: 
