@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mairagee524) <img src="https://img.shields.io/github/followers/mairagee524?label=Followers"/>
 
-I am a bilingual software engineer who is passionate about solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I was able to build three applications for local businesses in order for them to keep providing services to their clients. It is due to that experience that I am passionate about giving back to communities. I currently intern at DataSlate and volunteer at a start-up called Go-Off! as a full-stack engineer!
+I am a bilingual software engineer who is passionate about solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I was able to build three applications for local businesses in order for them to keep providing services to their clients. It is due to that experience that I am passionate about giving back to communities. I currently intern at DataSlate, volunteer at a start-up called Go-Off! as a full-stack engineer, and work part-time as a teaching assistant for my former bootcamp, Trilogy/2U!
 
 
 ### 🌱 Things I am currently working on: 
