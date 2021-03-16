@@ -6,14 +6,12 @@ I am a bilingual software engineer who is passionate about solving problems. As 
 
 
 ### 🌱 Things I am currently working on: 
-- Building a film application at my internship, DataSlate
+- Learn Mendix for my job, Entidad
 - Making buttons for the Go-Off! application
-- Landing my first job in tech as a software engineer
 - Finding open-source projects I can contribute to
 
 
 ### :muscle: Things I am challenging myself with:
-- Learning Postgres
 - Reading a book a month
 - Working out at least 3 times per week
 - Cooking more from home than ordering takeout
@@ -23,7 +21,6 @@ I am a bilingual software engineer who is passionate about solving problems. As 
 - Latinas transitioning to tech
 - Mentorship/assistance needed
 - having a non-traditional coding background
-- about my two puppies!
 
 
 ### ⚙️ Tech & tools: 
@@ -46,7 +43,6 @@ I am a bilingual software engineer who is passionate about solving problems. As 
 - I've seen my all-time favorite band, blink-182, (8) times and met them once as a VIP
 - I graduated from cosmetology school a couple years ago 
 - I am a big "How I Met Your Mother" and "New Girl" fan
-- I love participating in 5k events
 
 
 ### 😄 Pronouns: 
