@@ -49,6 +49,10 @@ I am a bilingual software engineer who is passionate about solving problems. As 
 - she/her/hers
 
 
+### 🧐 Note:
+- If you like what you see in my repos, feel free to follow me and star the repo before you fork! Thank you :)
+
+
 ### 📫 Contact me at: 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mairagee524)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mairagarcia524/)
