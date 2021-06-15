@@ -1,14 +1,14 @@
 # Hola, soy Maira 👋
 
-![Profile views](https://gpvc.arturio.dev/mairagee524) <img src="https://img.shields.io/github/followers/mairagee524?label=Followers"/>
+![](https://komarev.com/ghpvc/?username=mairagee524&color=green) <img src="https://img.shields.io/github/followers/mairagee524?label=Followers"/>
 
-I am a bilingual software engineer who is passionate about solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I was able to build three applications for local businesses in order for them to keep providing services to their clients. It is due to that experience that I am passionate about giving back to communities. I currently work at Entidad as a Platform Engineering Apprentice, and work part-time as a teaching assistant for my former bootcamp, Trilogy/2U!
+I am a bilingual software engineer who is passionate about solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I built three applications for local businesses in order for them to keep providing services to their clients. It is due to that experience that I am passionate about giving back to communities. I currently work part-time as a teaching assistant for my former bootcamp, Trilogy/2U!
 
 If you have any questions, feel free to email me or check out my social media pages under the "Contact Me" section at the bottom of this ReadMe ☺️
 
 
 ### 🌱 Things I am currently working on: 
-- Learn Mendix for my job, Entidad
+- looking for my dream full-time job
 - revamping my portfolio using React and Chakra-UI
 - Finding open-source projects I can contribute to
 
