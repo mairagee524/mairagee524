@@ -2,21 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=mairagee524&color=green) <img src="https://img.shields.io/github/followers/mairagee524?label=Followers"/>
 
-I am a bilingual software engineer who is passionate about solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I built three applications for local businesses in order for them to keep providing services to their clients. It is due to that experience that I love giving back to communities. Thus, I currently work part-time as a teaching assistant for my former bootcamp, Trilogy/2U!
+I am a bilingual software engineer who is passionate about solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I built three applications for local businesses in order for them to keep providing services to their clients. It is due to that experience as to why I love giving back to communities. Thus, I currently work full-time as an Associate Software Engineer at ActivTrak abd part-time as a teaching assistant for my former bootcamp, Trilogy/2U!
 
 If you have any questions, feel free to email me or check out my social media pages under the "Contact Me" section at the bottom of this ReadMe ☺️
 
 
 ### 🌱 Things I am currently working on: 
-- looking (and landing!) for my dream full-time job
+- building a favorite things app for YearOne
 - revamping my portfolio using Next.js
 - Finding open-source projects I can contribute to
-
-
-### :muscle: Things I am challenging myself with:
-- Reading a book a month
-- Working out at least 3 times per week
-- Cooking more from home than ordering takeout
 
 
 ### 💬 Ask me about: 
@@ -39,12 +33,6 @@ If you have any questions, feel free to email me or check out my social media pa
 ![Github](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Heroku](http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
-
-
-### ⚡ Fun facts:
-- I've seen my all-time favorite band, blink-182, (8) times and met them once as a VIP
-- I graduated from cosmetology school a couple years ago 
-- I am a big "How I Met Your Mother" and "New Girl" fan (basically any comedy sitcom)
 
 
 ### 😄 Pronouns: 
