@@ -10,7 +10,7 @@ If you have any questions, feel free to email me or check out my social media pa
 ### 🌱 Things I am currently working on: 
 - building a favorite things app for YearOne
 - revamping my portfolio using Next.js
-- Finding open-source projects I can contribute to
+- learning C# fundamentals
 
 
 ### 💬 Ask me about: 
