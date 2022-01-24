@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mairagee524&color=green) <img src="https://img.shields.io/github/followers/mairagee524?label=Followers"/>
 
-I am a bilingual software engineer who is passionate about solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I built three applications for local businesses in order for them to keep providing services to their clients. It is due to that experience as to why I love giving back to communities. Thus, I currently work full-time as an Associate Software Engineer at ActivTrak abd part-time as a teaching assistant for my former bootcamp, Trilogy/2U!
+I am a bilingual software engineer who enjoys solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I built three applications for local businesses in order for them to continue providing services to their clients. It is due to that experience as to why I enjoy giving back to communities. Thus, I currently work full-time as an Associate Software Engineer at ActivTrak abd part-time as a teaching assistant for my former bootcamp, Trilogy/2U!
 
 If you have any questions, feel free to email me or check out my social media pages under the "Contact Me" section at the bottom of this ReadMe ☺️
 
