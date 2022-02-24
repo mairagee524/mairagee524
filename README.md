@@ -2,24 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=mairagee524&color=green) <img src="https://img.shields.io/github/followers/mairagee524?label=Followers"/>
 
-I am a bilingual software engineer who enjoys solving problems. As a graduate from UCLA Extension's Full-Stack Web Development Coding Bootcamp, I built three applications for local businesses in order for them to continue providing services to their clients. It is due to that experience as to why I enjoy giving back to communities. Thus, I currently work full-time as an Associate Software Engineer at ActivTrak abd part-time as a teaching assistant for my former bootcamp, Trilogy/2U!
-
-If you have any questions, feel free to email me or check out my social media pages under the "Contact Me" section at the bottom of this ReadMe ☺️
+I am a bilingual software engineer who enjoys solving problems!
 
 
-### 🌱 Things I am currently working on: 
-- building a favorite things app for YearOne
-- revamping my portfolio using Next.js
-- learning C# fundamentals
-
-
-### 💬 Ask me about: 
-- Latinas transitioning to tech
-- Mentorship/assistance needed
-- having a non-traditional coding background
-
-
-### ⚙️ Tech & tools: 
+### ⚙️ Tech ToolBox: 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -35,19 +21,8 @@ If you have any questions, feel free to email me or check out my social media pa
 ![Heroku](http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
 
-### 😄 Pronouns: 
-- she/her/hers
-
-
 ### 🧐 Note:
 - If you like what you see in my repos, feel free to follow me and star the repo before you fork! Thank you :)
-
-
-### 📫 Contact me at: 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mairagee524)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mairagarcia524/)
-[![Twitter URL](https://img.shields.io/badge/-Twitter-grey?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/latinacoder24)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mairagarcia.codes@gmail.com)
 
 
 ### 👩🏽‍💻 See how active I am: 
